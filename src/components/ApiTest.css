@@ -1,0 +1,11 @@
+.email-div{
+  display: flex;
+  gap: 7px;
+}
+.email-div label{
+  color: blue;
+}
+.body{
+  background-color: black;
+  color: white;
+}
